@@ -1,5 +1,5 @@
 # JOIN DISCORD FOR MORE MLOs
-# [R0ll0_3D Discord]([https://example.com](https://discord.gg/xafBKUCDcb))
+[R0ll0_3D Discord]([https://example.com](https://discord.gg/xafBKUCDcb))
 
 ## Coords:
      520.628601, 171.454941, 99.358276
